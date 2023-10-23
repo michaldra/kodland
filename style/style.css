@@ -12,6 +12,10 @@ header {
     background: #4c4b4d;
 }
 
+main {
+    margin-bottom: 60px
+}
+
 .nav_list {
     color: #e2e4e3;
     list-style-type: none;
