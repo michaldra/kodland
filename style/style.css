@@ -78,3 +78,10 @@ a {
     width: 600px;
     height: 330px;
 }
+
+.kost {
+    margin: 70px 0 0 800px;
+    border-radius: 20px;
+    width: 330px;
+    height: 330px;
+}
