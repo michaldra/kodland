@@ -89,3 +89,10 @@ a {
     width: 330px;
     height: 330px;
 }
+
+.rrr {
+    margin: 70px 0 0 100px;
+    border-radius: 20px;
+    width: 400px;
+    height: 550px;
+}
